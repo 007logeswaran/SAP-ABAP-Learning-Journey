@@ -1,5 +1,6 @@
 # SAP-ABAP-Learning-Journey
 SAP ABAP concepts, projects and documentation.
+
 # SAP ABAP Learning Journey
 
 ## About Me
@@ -38,5 +39,7 @@ This repository contains my learning notes, project documentation and ABAP pract
 * Material Report
 * Vendor Report
 * Sales Report
+
+## Goal
 
 To become a professional SAP ABAP Developer by building practical knowledge and documenting my learning journey.
