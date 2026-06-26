@@ -16,3 +16,5 @@ This folder contains my SAP ABAP basic concepts, Interview Questions and practic
 - READ TABLE
 - JOINS
 - FOR ALL ENTRIES
+- Function Modules
+- OOP Basics
