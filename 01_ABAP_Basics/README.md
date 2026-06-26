@@ -2,7 +2,7 @@
 
 ## Description
 
-This folder contains my SAP ABAP basic concepts and practice notes.
+This folder contains my SAP ABAP basic concepts, Interview Questions and practice notes.
 
 ## Topics
 
