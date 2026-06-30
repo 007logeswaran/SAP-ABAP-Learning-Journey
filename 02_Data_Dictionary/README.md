@@ -13,7 +13,6 @@ The ABAP Data Dictionary (DDIC) is used to define and manage database objects in
 * Search Help
 * Lock Object
 * View
-* Table Maintenance Generator
 * Foreign Key
 
 ## Goal
